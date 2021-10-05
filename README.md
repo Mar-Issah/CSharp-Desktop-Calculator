@@ -9,7 +9,7 @@ A desktop app to practice my skills in CSharp.
 
 ### Built With / Requirements :construction_worker:
 
-- [Visual Studio](https://visualstudio.microsoft.com/) - Window forms app
+- [Visual Studio](https://visualstudio.microsoft.com/) - Window Forms App
 - [C #](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
 <br>
