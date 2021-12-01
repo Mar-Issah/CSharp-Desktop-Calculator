@@ -20,12 +20,12 @@ A desktop app to practice my skills in CSharp.
 
 ### Installation
 
-1. Dowload and install [Visual Studio](https://visualstudio.microsoft.com/)
-2.  Clone the repo in VS on your local machine
+1. Dowload and install [Visual Studio](https://visualstudio.microsoft.com/).
+2.  Clone the repo in VS on your local machine.
    ```sh
     https://github.com/Mar-Issah/CSharp-Desktop-Calculator.git
    ```
-3. Run project in VS
+3. Run project in VS.
 
 <br>
 
