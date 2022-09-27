@@ -65,4 +65,4 @@ Distributed under the `MIT License`. See [LICENSE](https://choosealicense.com/li
 
 Marsiya Issah : masy370@gmail.com
 
-Project Link: [https://github.com/Mar-Issah/CSharp-Desktop-Calculator.git](https://github.com/Mar-Issah/CSharp-Desktop-Calculator.git)
+Project Link: [https://github.com/Mar-Issah/CSharp-Desktop-Calculator.git](https://github.com/Mar-Issah/CSharp-Desktop-Calculator.git).
