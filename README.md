@@ -33,7 +33,7 @@ A desktop app to practice my skills in CSharp.
 
 ## Usage
 
-Whatever to user types is added to the expression above, when the user clicks on "=" the result is displayed
+Whatever to user types is added to the expression above, when the user clicks on "=" the result is displayed.
 
 ![CSharp Desktop Calculator](https://res.cloudinary.com/dytnpjxrd/image/upload/v1617840976/My%20Website%20Projects/csharp_cal._2_pilb0u.png)
 
